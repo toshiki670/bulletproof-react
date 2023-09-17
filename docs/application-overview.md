@@ -37,7 +37,7 @@ Prerequisites:
 To set up the app execute the following commands.
 
 ```bash
-git clone https://github.com/alan2207/bulletproof-react.git
+git clone https://github.com/toshiki670/bulletproof-react.git
 cd bulletproof-react
 cp .env.example .env
 yarn install
