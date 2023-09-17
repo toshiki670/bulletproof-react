@@ -1,7 +1,7 @@
 # Bulletproof React 🛡️ ⚛️
 
-[![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
-[![CI](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml)
+[![MIT License](https://img.shields.io/github/license/toshiki670/bulletproof-react)](https://github.com/toshiki670/bulletproof-react/blob/master/LICENCE)
+[![CI](https://github.com/toshiki670/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/toshiki670/bulletproof-react/actions/workflows/ci.yml)
 
 A simple, scalable, and powerful architecture for building production ready React applications.
 
@@ -15,11 +15,11 @@ The goal here is to serve as a collection of resources and best practices when d
 
 Feel free to explore the codebase to get the most value out of the repo.
 
-#### Disclaimer:
+#### Disclaimer
 
 This is not supposed to be a template, boilerplate or a framework. It is an opinionated guide that shows how to do some things in a certain way. You are not forced to do everything exactly as it is shown here, decide what works best for you and your team and stay consistent with your style.
 
-## Table Of Contents:
+## Table Of Contents
 
 - [💻 Application Overview](docs/application-overview.md)
 - [⚙️ Project Configuration](docs/project-configuration.md)
