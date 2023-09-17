@@ -57,7 +57,7 @@ It is a good idea to wrap 3rd party components as well in order to adapt them to
 
 Every project requires some UI components such as modals, tabs, sidebars, menus, etc. Instead of building those from scratch, you might want to use some of the existing, battle-tested component libraries.
 
-#### Fully featured component libraries:
+#### Fully featured component libraries
 
 These component libraries come with their components fully styled.
 
@@ -67,7 +67,7 @@ These component libraries come with their components fully styled.
 
 - [MUI](https://mui.com/) - the most popular component library for React. Has a lot of different components. Can be used as a styled solution by implementing Material Design or as unstyled headless component library.
 
-#### Headless component libraries:
+#### Headless component libraries
 
 These component libraries come with their components unstyled. If you have a specific design system to implement, it might be easier and better solution to go with headless components that come unstyled than to adapt a styled components library such as Material UI to your needs. Some good options are:
 

@@ -2,7 +2,7 @@
 
 This [tweet](https://twitter.com/rauchg/status/807626710350839808) explains in a concise way how to think about testing. You will get the most benefit from having integration and e2e tests. Unit tests are fine, but they will not give you as much confidence that your application is working as integration tests do.
 
-## Types of tests:
+## Types of tests
 
 ### Unit Tests
 
@@ -25,7 +25,7 @@ Usually these tests consist of running the entire application with the frontend 
 
 [E2E Example Code](../cypress/integration/smoke.ts)
 
-## Tooling:
+## Tooling
 
 #### [Jest](https://jestjs.io/)
 
